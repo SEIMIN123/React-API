@@ -18,3 +18,8 @@
   background-color: salmon;
   font-size: 2vw;
 }
+
+.date {
+  width: 100vw;
+  font-weight: bold;
+}
